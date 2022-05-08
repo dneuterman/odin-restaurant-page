@@ -1,6 +1,7 @@
 import HomePage from "./components/home";
 import MenuPage from "./components/menu";
 import AboutPage from "./components/about";
+import "./style.css";
 
 const content = document.getElementById("content");
 const homeNav = document.querySelector(".home-nav");
